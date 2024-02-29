@@ -20,7 +20,7 @@ app.use('/api/employees', employees);
 app.use(notFound);
 app.use(errorHandler);
 
-
 console.log("praticando pr")
+console.log("praticando commit")
 
 module.exports = app;
