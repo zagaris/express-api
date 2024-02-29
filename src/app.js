@@ -23,4 +23,6 @@ app.use(errorHandler);
 console.log("praticando pr")
 console.log("praticando commit")
 
+console.log("pa")
+
 module.exports = app;
